@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🔒 Security issue
+    url: https://github.com/woocommerce/woocommerce-gateway-stripe/blob/develop/SECURITY.md
+    about: For security reasons, please report all security issues via HackerOne. If the issue is valid, a bug bounty will be paid out to you. Please disclose responsibly and not via GitHub (which allows for exploiting issues in the wild before the patch is released).
+  - name: ❓ Support Question
+    url: https://woocommerce.com/my-account/create-a-ticket/?select=18627
+    about: If you have a question please see our docs or use our forums, helpdesk, or Slack community!
+  - name: 📑 Documentation
+    url: https://woocommerce.com/document/stripe/
+    about: Please report issues for WooCommerce Blocks directly to it's repository.
+  - name: 💬 Review
+    url: https://woocommerce.com/products/stripe/#reviews
+    about: If you're enjoying using the WooCommerce Stripe plugin, we'd love to have a review
