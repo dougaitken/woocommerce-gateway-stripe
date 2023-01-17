@@ -9,6 +9,9 @@ contact_links:
   - name: 📑 Documentation
     url: https://woocommerce.com/document/stripe/
     about: Please report issues for WooCommerce Blocks directly to it's repository.
+    name: ✨  Enhancement/Feature Request
+    url: https://woocommerce.com/feature-requests/stripe/
+    about: It would be great to have you add your enhancement or feature requests to the Feature Request portal, which is where the team monitors for future plugin features and improvements.
   - name: 💬 Review
     url: https://woocommerce.com/products/stripe/#reviews
     about: If you're enjoying using the WooCommerce Stripe plugin, we'd love to have a review
